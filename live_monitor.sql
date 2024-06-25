@@ -1,0 +1,1 @@
+delete from live_performance
